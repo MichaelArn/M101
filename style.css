@@ -1,0 +1,21 @@
+/* Meine Stylesheet Datei */
+    /*Mein Stylesheet */ 
+    html {
+        height: 101%;
+    }
+    
+    body {
+        background: yellowgreen;
+    }
+    .blue {
+       background:blue !important;
+    }
+    .red {
+       background: darkred !important;
+    }
+    .yellow {
+       background: yellow !important;
+    }
+    .orange {
+       background: orange !important;
+    }
